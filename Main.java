@@ -1,3 +1,4 @@
+//import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Main{
@@ -6,6 +7,9 @@ public class Main{
         int[] a = new int[]{
             2, 4, 7, 13, 14, 15, 1
         };
+        //ArrayList<Integer> lista1 = new ArrayList<Integer>(); testando melhorias
+        //ArrayList<Integer> lista2 = new ArrayList<Integer>();
+        
         int[] b = new int[]{
             1, 6, 7, 11, 13, 16, 18
         };
